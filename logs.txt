@@ -1,0 +1,19 @@
+
+==> Audit <==
+|-----------|------------------|----------|------|---------|---------------------|---------------------|
+|  Command  |       Args       | Profile  | User | Version |     Start Time      |      End Time       |
+|-----------|------------------|----------|------|---------|---------------------|---------------------|
+| start     |                  | minikube | adi  | v1.36.0 | 13 Jul 25 04:45 UTC |                     |
+| start     |                  | minikube | adi  | v1.36.0 | 13 Jul 25 04:47 UTC | 13 Jul 25 04:54 UTC |
+| dashboard |                  | minikube | adi  | v1.36.0 | 13 Jul 25 04:56 UTC |                     |
+| dashboard |                  | minikube | adi  | v1.36.0 | 13 Jul 25 05:16 UTC |                     |
+| dashboard |                  | minikube | adi  | v1.36.0 | 13 Jul 25 05:32 UTC |                     |
+| dashboard |                  | minikube | adi  | v1.36.0 | 13 Jul 25 05:56 UTC |                     |
+| start     |                  | minikube | adi  | v1.36.0 | 13 Jul 25 13:03 UTC | 13 Jul 25 13:04 UTC |
+| dashboard |                  | minikube | adi  | v1.36.0 | 13 Jul 25 13:06 UTC |                     |
+| service   | my-pod           | minikube | adi  | v1.36.0 | 13 Jul 25 13:08 UTC | 13 Jul 25 13:09 UTC |
+| service   | my-service --url | minikube | adi  | v1.36.0 | 13 Jul 25 13:18 UTC |                     |
+|-----------|------------------|----------|------|---------|---------------------|---------------------|
+
+
+==> Last Start <==
